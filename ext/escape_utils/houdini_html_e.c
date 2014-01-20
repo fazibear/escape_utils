@@ -38,8 +38,8 @@ static const char *HTML_ESCAPES[] = {
         "",
         "&quot;",
         "&amp;",
-        "&#39;",
-        "&#47;",
+        "&#x27;",
+        "&#x2F;",
         "&lt;",
         "&gt;"
 };
